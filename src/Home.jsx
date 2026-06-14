@@ -1,10 +1,4 @@
-// consumir la API de pizzas y rendenrizar tarjetas de pizza
 
-// http://localhost:5000/api/pizzas/
-
-// usar hook , useEffect , fetch para hacer la petición a la API
-
-// PARA CONSUMIR LA API
 import { useState, useEffect } from "react";
 import "./App.css";
 
