@@ -1,4 +1,4 @@
-// Componente que muestra únicamente la tarjeta de la pizza "napolitana"
+
 import { useState, useEffect } from "react";
 import "./App.css";
 
