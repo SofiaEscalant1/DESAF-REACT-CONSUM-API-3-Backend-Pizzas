@@ -1,0 +1,80 @@
+[
+  {
+    "desc": "La pizza napolitana, de masa tierna y delgada pero bordes altos, es la versión propia de la cocina napolitana de la pizza redonda.",
+    "id": "p001",
+    "img": "https://images.unsplash.com/photo-1513104890138-7c749659a591",
+    "ingredients": [
+      "mozzarella",
+      "tomates",
+      "jamón",
+      "orégano"
+    ],
+    "name": "napolitana",
+    "price": 5950
+  },
+  {
+    "desc": "Pizza clásica con base de harina, salsa de tomate, queso y una combinación de ingredientes horneados.",
+    "id": "p002",
+    "img": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+    "ingredients": [
+      "mozzarella",
+      "tomates",
+      "jamón",
+      "choricillo"
+    ],
+    "name": "española",
+    "price": 7250
+  },
+  {
+    "desc": "Pizza cubierta con mozzarella, tomate, salame y especias al estilo tradicional.",
+    "id": "p003",
+    "img": "https://images.unsplash.com/photo-1594007654729-407eedc4be65",
+    "ingredients": [
+      "mozzarella",
+      "tomates",
+      "salame",
+      "orégano"
+    ],
+    "name": "salame",
+    "price": 5990
+  },
+  {
+    "desc": "Pizza con una mezcla de sabores: salame, aceitunas y champiñones.",
+    "id": "p004",
+    "img": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002",
+    "ingredients": [
+      "mozzarella",
+      "salame",
+      "aceitunas",
+      "champiñones"
+    ],
+    "name": "cuatro estaciones",
+    "price": 9590
+  },
+  {
+    "desc": "Pizza con mozzarella, tomates cherry, bacon y orégano.",
+    "id": "p005",
+    "img": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca",
+    "ingredients": [
+      "mozzarella",
+      "tomates cherry",
+      "bacon",
+      "orégano"
+    ],
+    "name": "bacon",
+    "price": 6450
+  },
+  {
+    "desc": "Pizza con pollo grillado, pimientos y un toque picante.",
+    "id": "p006",
+    "img": "https://images.unsplash.com/photo-1628840042765-356cda07504e",
+    "ingredients": [
+      "mozzarella",
+      "pimientos",
+      "pollo grillé",
+      "orégano"
+    ],
+    "name": "pollo picante",
+    "price": 8500
+  }
+]
